@@ -1,0 +1,11 @@
+html,
+body {
+  color: white;
+  background-color: #21232a;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+button {
+  font-size: 1.3rem;
+  padding: 10px;
+  margin-right: 10px;
+}
